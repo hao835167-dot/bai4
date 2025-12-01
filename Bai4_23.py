@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 def dem_chu_cai_va_so():
     cau = input("Nhập một câu: ")
     chu_cai = 0
