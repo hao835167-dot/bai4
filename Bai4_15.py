@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 def sap_xep_tu():
     nhap = input("Nhập các từ tiếng Anh cách nhau bởi dấu cách: ")
     tu_list = nhap.split()
