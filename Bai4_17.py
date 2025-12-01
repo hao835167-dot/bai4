@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 # Bài 17: Tìm số nguyên dương nhỏ hơn n có tổng ước số lớn hơn chính nó
 def bai_17():
     try:
