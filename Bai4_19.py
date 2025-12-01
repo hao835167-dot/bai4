@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 def is_prime(num):
     """Kiểm tra số nguyên tố"""
     if num < 2:
