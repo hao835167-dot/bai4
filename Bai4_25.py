@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 def loc_so_le():
     nhap = input("Nhập các số cách nhau bằng dấu phẩy: ")
     danh_sach = nhap.split(',')
