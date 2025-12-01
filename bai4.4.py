@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 ds = ('Nhập danh sách: ').split()
 
 # In cả dãy vùa nhập
@@ -8,3 +12,4 @@ print(ds)
 
 for so in ds:
     print(so)
+
