@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 # Bài 18: Tạo list số Fibonacci nhỏ hơn n
 def bai_18():
     try:
