@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 # Bài 16: Nhập chuỗi số nhị phân phân tách bởi dấu phẩy
 def bai_16():
     nhap = input("Nhập chuỗi các số nhị phân phân tách bởi dấu phẩy: ")
