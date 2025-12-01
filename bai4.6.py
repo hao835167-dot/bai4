@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 ten_day_du = input("Nhập họ và tên (gồm 2 từ): ").strip()
 parts = ten_day_du.split()
 
@@ -8,3 +12,4 @@ if len(parts) == 2:
     print("Tên:", ten)
 else:
     print("Vui lòng nhập đúng định dạng (chỉ gồm họ và tên).")
+
